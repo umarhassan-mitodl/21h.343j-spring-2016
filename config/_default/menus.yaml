@@ -1,0 +1,74 @@
+hide_download: true
+hide_download_original: null
+leftnav:
+- identifier: 206f4de1-d681-bf6b-36be-cced785c7cde
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 8370028f-43ef-4e29-4624-f7e1d8fe7289
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 364e7205-8baf-876d-eff7-770f80369e00
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights/
+  weight: 30
+- identifier: 2a10e49b-5443-b31f-0468-4df53672b9bf
+  name: Developing the Course
+  pageRef: /pages/instructor-insights/developing-the-course
+  parent: 364e7205-8baf-876d-eff7-770f80369e00
+  weight: 40
+- identifier: fd1f70ad-d824-664c-21d5-2724e20f0f61
+  name: Using Archival Experiences to Ground Learning
+  pageRef: /pages/instructor-insights/using-archival-experiences-to-ground-readings-and-hands-on-learning
+  parent: 364e7205-8baf-876d-eff7-770f80369e00
+  weight: 50
+- identifier: 668f604c-7420-f740-c83b-6c277ab6d628
+  name: "Allaying Educators\u2019 Skepticism about a Hands-on Humanities Course"
+  pageRef: /pages/instructor-insights/allaying-educators2019-skepticism-about-facilitating-a-hands-on-humanities-course
+  parent: 364e7205-8baf-876d-eff7-770f80369e00
+  weight: 60
+- identifier: c60e9eca-e373-eb11-c5a4-1cd63bb8c2aa
+  name: 'The Role of Online Fora '
+  pageRef: /pages/instructor-insights/the-role-of-online-fora
+  parent: 364e7205-8baf-876d-eff7-770f80369e00
+  weight: 70
+- identifier: fc399584-e0b8-f0f6-6ecc-27362e24c09b
+  name: What Will Happen to the Printing Press Now?
+  pageRef: /pages/instructor-insights/what-will-happen-to-the-printing-press-now
+  parent: 364e7205-8baf-876d-eff7-770f80369e00
+  weight: 80
+- identifier: 6e66b540-6b39-3fac-1e79-7046355f90be
+  name: 'Lauren: Course Components and Ideas for Iteration'
+  pageRef: /pages/instructor-insights/lauren-course-components-and-ideas-for-iteration
+  parent: 364e7205-8baf-876d-eff7-770f80369e00
+  weight: 90
+- identifier: c7a86549-e9b1-bc62-479b-84ecf88b7294
+  name: 'Theodore: Prelude to the Course and Building the Printing Press'
+  pageRef: /pages/instructor-insights/theodore-prelude-to-the-course-and-building-the-printing-press
+  parent: 364e7205-8baf-876d-eff7-770f80369e00
+  weight: 100
+- identifier: 2bdc85db-fadb-365b-f11d-42f687b509c1
+  name: Readings and Videos
+  pageRef: /pages/readings-and-videos
+  weight: 110
+- identifier: 349f2910-c391-c491-0f1a-d39f02692334
+  name: Lecture Slides
+  pageRef: /pages/lecture-slides
+  weight: 120
+- identifier: d5eb05af-c075-0701-5694-f196e945a11c
+  name: Image Gallery I - Making the Beaver Press
+  pageRef: /pages/image-gallery-i-making-the-beaver-press
+  weight: 130
+- identifier: 38659a33-436d-bde7-c9d6-e20765d008ed
+  name: Image Gallery II
+  pageRef: /pages/image-gallery-ii
+  weight: 140
+- identifier: a8ce3ab1-4edd-d944-05b6-2413bb094d59
+  name: Image Gallery III
+  pageRef: /pages/image-gallery-iii
+  weight: 150
+- identifier: 82abea80-ae9a-391f-2cda-304f03f1072d
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 160

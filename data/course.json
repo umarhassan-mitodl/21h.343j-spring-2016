@@ -1,0 +1,61 @@
+{
+  "term": "Spring",
+  "year": "2016",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "History",
+      "European History"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "International Literature"
+    ],
+    [
+      "Humanities",
+      "History",
+      "History of Science and Technology"
+    ]
+  ],
+  "legacy_uid": "a1af3ab1-ded1-c200-03d1-6b99541d7a6b",
+  "instructors": {
+    "content": [
+      "4b59017c-92e6-cb8b-595e-843febee23b2",
+      "fb803609-b896-c081-b3cb-f27d9ef3ed9d",
+      "292e3ae1-66ed-e8bc-3a4b-23690a6a2ce8"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "fd722bbb-e7df-11aa-1787-ff2a1e257f8d",
+    "website": "21h-343j-making-books-the-renaissance-and-today-spring-2016"
+  },
+  "course_title": "Making Books: The Renaissance and Today",
+  "hide_download": true,
+  "course_description": "This course explores the impact of new technology on the recording and distribution of words and images at three different times: The invention of the printing press ca. 1450; the adaptation of electricity to communication technology in the 19th century (telegraph, telephone, phonograph); and the emergence of digital media today. Assignments include essays and online projects. Students also participate in the design and construction of a hand-set printing press.\n\nThis course is also part of the [Concourse](http://concourse.mit.edu/) program at MIT.",
+  "department_numbers": [
+    "21H",
+    "CC"
+  ],
+  "extra_course_numbers": "CC.120J",
+  "primary_course_number": "21H.343J",
+  "course_image_thumbnail": {
+    "content": "29a0828a-8457-f354-1846-5a950232186d",
+    "website": "21h-343j-making-books-the-renaissance-and-today-spring-2016"
+  },
+  "hide_download_original": null,
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Written Assignments with Examples",
+    "Image Gallery",
+    "Instructor Insights"
+  ],
+  "site_uid": "6728e9b4-0a39-43ca-a368-01ebd13153c6",
+  "site_short_id": "21h.343j-spring-2016",
+  "site_url_path": "courses/21h-343j-making-books-the-renaissance-and-today-spring-2016",
+  "title": "Course Metadata"
+}
