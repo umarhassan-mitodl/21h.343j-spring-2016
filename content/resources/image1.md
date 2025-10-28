@@ -4,31 +4,31 @@ description: An end view diagram of the Beaver press with various parts identifi
 file: /courses/21h-343j-making-books-the-renaissance-and-today-spring-2016/ffd3fea2cf932a2072579f1182251e33_Image1.jpg
 file_size: 61258
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
-  caption: '[Spindle](https://www.oldbookillustrations.com/dictionary/s/spindle) -
-    The screw to which the bar of the press is affixed, and which produces the pressure
+  caption: '{{% resource_link "1be80949-168c-4592-83e8-788f356a2f18" "Spindle" %}}
+    - The screw to which the bar of the press is affixed, and which produces the pressure
     on the platen.
 
 
-    [Head](https://www.oldbookillustrations.com/dictionary/h/head) - That part of
-    a wooden press in which the nut of the spindle is fixed.
+    {{% resource_link "aaf96b80-ac30-4f7c-9c06-3b679e5c148e" "Head" %}} - That part
+    of a wooden press in which the nut of the spindle is fixed.
 
 
     Nut
 
 
-    [Till, or Shelf](https://www.oldbookillustrations.com/dictionary/t/till) - A mahogany
-    shelf, in wooden presses, divided in two longitudinally, that clasps the hose,
-    and causes it and the spindle to come down perpendicularly without any play.
+    {{% resource_link "c8325125-d050-4b4c-8e7d-50f482d34a7c" "Till, or Shelf" %}}
+    - A mahogany shelf, in wooden presses, divided in two longitudinally, that clasps
+    the hose, and causes it and the spindle to come down perpendicularly without any
+    play.
 
 
-    [Hose](https://www.oldbookillustrations.com/dictionary/h/hose) - Two upright bars
-    of iron that connected the garter and the hose hooks, and went through the till.
+    {{% resource_link "365d4e8f-63cc-42a9-8e47-7706ed58e720" "Hose" %}} - Two upright
+    bars of iron that connected the garter and the hose hooks, and went through the
+    till.
 
 
-    [Platen](https://www.oldbookillustrations.com/dictionary/p/platen) - The platen
+    {{% resource_link "03979558-36ee-4775-9c9e-d5b1eaadf9c6" "Platen" %}} - The platen
     is that part of the machine which comes down upon the form, and, being acted upon
     by the spindle, produces the impression.'
   credit: Image by Ken Stone, MIT Hobby Shop.

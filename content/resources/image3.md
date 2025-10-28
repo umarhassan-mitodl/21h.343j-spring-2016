@@ -4,16 +4,14 @@ description: A top view diagram of Beaver Press.
 file: /courses/21h-343j-making-books-the-renaissance-and-today-spring-2016/adffac5f3ea287fdece6ef9ec4830d05_Image3.jpg
 file_size: 48115
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
-  caption: '[Spindle](https://www.oldbookillustrations.com/dictionary/s/spindle) -
-    The screw to which the bar of the press is affixed, and which produces the pressure
+  caption: '{{% resource_link "1be80949-168c-4592-83e8-788f356a2f18" "Spindle" %}}
+    - The screw to which the bar of the press is affixed, and which produces the pressure
     on the platen.
 
 
-    [Head](https://www.oldbookillustrations.com/dictionary/h/head) - That part of
-    a wooden press in which the nut of the spindle is fixed.
+    {{% resource_link "aaf96b80-ac30-4f7c-9c06-3b679e5c148e" "Head" %}} - That part
+    of a wooden press in which the nut of the spindle is fixed.
 
 
     Nut'
