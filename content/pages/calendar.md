@@ -10,7 +10,7 @@ uid: 8370028f-43ef-4e29-4624-f7e1d8fe7289
 ---
 At our first meeting, the instructors will divide the students into two groups, Group A and Group B.
 
-In most weeks, one group will meet with Professors McCants and Ravel to discuss class readings and examine rare print objects from the MIT collections, while the other group will meet with Ken Stone in the [MIT Hobby Shop](http://studentlife.mit.edu/hobbyshop) to build our printing press. The following week the two groups will trade places, so that all students in the class will participate equally in our academic and building exercises.
+In most weeks, one group will meet with Professors McCants and Ravel to discuss class readings and examine rare print objects from the MIT collections, while the other group will meet with Ken Stone in the {{% resource_link "ecfbd2eb-c850-487c-bbe6-c0fb3272c212" "MIT Hobby Shop" %}} to build our printing press. The following week the two groups will trade places, so that all students in the class will participate equally in our academic and building exercises.
 
 (HS) = Sessions in the MIT Hobby Shop
 
@@ -35,7 +35,7 @@ Split class into Groups A & B.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
 {{< tdclose >}}{{< tdopen >}}
-Class visit to [The Printing Office of Edes & Gill](https://www.edesandgill.org/)
+Class visit to {{% resource_link "80e0f78f-5125-4cba-ad7a-ea2b93ea515c" "The Printing Office of Edes & Gill" %}}
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
@@ -135,7 +135,7 @@ The Meanings and Uses of Early European Print—A Conversation
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 14
 {{< tdclose >}}{{< tdopen >}}
-A visit to the [Hart Nautical Collection](http://mitmuseum.mit.edu/hart-nautical-collections-list), MIT Museum
+A visit to the {{% resource_link "b36ef494-4cdc-424f-8bcc-4edfd243d5de" "Hart Nautical Collection" %}}, MIT Museum
 {{< tdclose >}}{{< tdopen >}}
 First paper due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}

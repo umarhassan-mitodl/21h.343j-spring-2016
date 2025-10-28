@@ -35,8 +35,7 @@
     "website": "21h-343j-making-books-the-renaissance-and-today-spring-2016"
   },
   "course_title": "Making Books: The Renaissance and Today",
-  "hide_download": true,
-  "course_description": "This course explores the impact of new technology on the recording and distribution of words and images at three different times: The invention of the printing press ca. 1450; the adaptation of electricity to communication technology in the 19th century (telegraph, telephone, phonograph); and the emergence of digital media today. Assignments include essays and online projects. Students also participate in the design and construction of a hand-set printing press.\n\nThis course is also part of the [Concourse](http://concourse.mit.edu/) program at MIT.",
+  "course_description": "This course explores the impact of new technology on the recording and distribution of words and images at three different times: The invention of the printing press ca. 1450; the adaptation of electricity to communication technology in the 19th century (telegraph, telephone, phonograph); and the emergence of digital media today. Assignments include essays and online projects. Students also participate in the design and construction of a hand-set printing press.\n\nThis course is also part of the {{% resource_link \"bff7ee3e-cd3e-4f3a-a47c-2595b78f5ffc\" \"Concourse\" %}} program at MIT.",
   "department_numbers": [
     "21H",
     "CC"
@@ -47,7 +46,6 @@
     "content": "29a0828a-8457-f354-1846-5a950232186d",
     "website": "21h-343j-making-books-the-renaissance-and-today-spring-2016"
   },
-  "hide_download_original": null,
   "learning_resource_types": [
     "Lecture Notes",
     "Written Assignments with Examples",
